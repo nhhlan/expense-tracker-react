@@ -1,0 +1,5 @@
+Approach
+1. Building UI
+2. Add style class
+3. Update variable (dynamic content)
+4. Logic/action
