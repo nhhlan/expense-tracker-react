@@ -7,7 +7,7 @@
 ## Links
 
 - [Github URL](https://github.com/nhhlan/react-expense-tracker)
-- [Live Site URL](https://nhhlan.github.io/react-expense-tracker/)
+- [Live Site URL](https://react-simple-expense-tracker.netlify.app/)
 
 ## Built with
 
